@@ -17,7 +17,7 @@ juno
     name: 'logo',
     displayName: 'Logo',
     type: FieldType.MEDIA_LIST,
-    required: true,
+    required: false,
   });
 
 module.exports = juno;
